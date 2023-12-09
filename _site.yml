@@ -3,11 +3,11 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Project Plan"
-      href: project_plan.html
+    - text: "Index"
+      href: index.html
     - text: "Introduction"
       href: Introduction.html
-    - icon: fa-youtube fa-lg
+    - icon: fa-mail fa-lg
       href: mailto:rh3195@cumc.columbia.edu?subject=About%20your%20website
 output:
   html_document:
